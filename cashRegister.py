@@ -1,7 +1,4 @@
 
-# Author: Minu
-# 08/03/2020
-
 
 import datetime
 import sys
