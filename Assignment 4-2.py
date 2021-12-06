@@ -5,6 +5,7 @@ def mean(numbers):
     # This one is pretty easy. We can just create a variable named summer and set it equal to 0.
     # For every element in the list, we can add the value to the summer and once we reach the end of the list
     # we can divide the summer by the number of elements.
+    # testing git differences
     summer = 0
     for i in numbers:
         summer += i

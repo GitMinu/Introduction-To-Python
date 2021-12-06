@@ -1,4 +1,6 @@
-
+"""
+making changes to understand git commandline
+"""
 
 
 import time
@@ -42,7 +44,7 @@ def prime_check3(number):
 
 def prime_check4(number):
     if number == 2:
-        return " is prime"
+        return " is prime and all"
     elif number == 1 or number % 2 == 0 or number < 0:
         return " is not prime"
     else:
